@@ -1,0 +1,4 @@
+print("Hello World")
+A = "Apple"
+for i in A:
+    print("Variable _A_ single character content: ", A)
